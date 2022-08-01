@@ -1,0 +1,367 @@
+{"area":{
+    "data": [
+        {
+            "id": 1,
+            "short_value": "VBD",
+            "long_value": "Bowen Island"
+        },
+        {
+            "id": 2,
+            "short_value": "VBE",
+            "long_value": "Burnaby East"
+        },
+        {
+            "id": 3,
+            "short_value": "VBN",
+            "long_value": "Burnaby North"
+        },
+        {
+            "id": 4,
+            "short_value": "VBS",
+            "long_value": "Burnaby South"
+        },
+        {
+            "id": 5,
+            "short_value": "VCQ",
+            "long_value": "Coquitlam"
+        },
+        {
+            "id": 6,
+            "short_value": "VIS",
+            "long_value": "Islands-Van. & Gulf"
+        },
+        {
+            "id": 7,
+            "short_value": "VLD",
+            "long_value": "Ladner"
+        },
+        {
+            "id": 8,
+            "short_value": "VMR",
+            "long_value": "Maple Ridge"
+        },
+        {
+            "id": 9,
+            "short_value": "VNV",
+            "long_value": "North Vancouver"
+        },
+        {
+            "id": 10,
+            "short_value": "VNW",
+            "long_value": "New Westminster"
+        },
+        {
+            "id": 11,
+            "short_value": "VPE",
+            "long_value": "Pemberton"
+        },
+        {
+            "id": 12,
+            "short_value": "VPI",
+            "long_value": "Pitt Meadows"
+        },
+        {
+            "id": 13,
+            "short_value": "VPM",
+            "long_value": "Port Moody"
+        },
+        {
+            "id": 14,
+            "short_value": "VPQ",
+            "long_value": "Port Coquitlam"
+        },
+        {
+            "id": 15,
+            "short_value": "VRI",
+            "long_value": "Richmond"
+        },
+        {
+            "id": 16,
+            "short_value": "VSC",
+            "long_value": "Sunshine Coast"
+        },
+        {
+            "id": 17,
+            "short_value": "VSQ",
+            "long_value": "Squamish"
+        },
+        {
+            "id": 18,
+            "short_value": "VTW",
+            "long_value": "Tsawwassen"
+        },
+        {
+            "id": 19,
+            "short_value": "VVE",
+            "long_value": "Vancouver East"
+        },
+        {
+            "id": 20,
+            "short_value": "VVW",
+            "long_value": "Vancouver West"
+        },
+        {
+            "id": 21,
+            "short_value": "VWH",
+            "long_value": "Whistler"
+        },
+        {
+            "id": 22,
+            "short_value": "VWV",
+            "long_value": "West Vancouver"
+        },
+        {
+            "id": 23,
+            "short_value": "F10",
+            "long_value": "N. Delta"
+        },
+        {
+            "id": 24,
+            "short_value": "F20",
+            "long_value": "North Surrey"
+        },
+        {
+            "id": 25,
+            "short_value": "F30",
+            "long_value": "Surrey"
+        },
+        {
+            "id": 26,
+            "short_value": "F40",
+            "long_value": "Cloverdale"
+        },
+        {
+            "id": 27,
+            "short_value": "F50",
+            "long_value": "South Surrey White Rock"
+        },
+        {
+            "id": 28,
+            "short_value": "F60",
+            "long_value": "Langley"
+        },
+        {
+            "id": 29,
+            "short_value": "F70",
+            "long_value": "Abbotsford"
+        },
+        {
+            "id": 30,
+            "short_value": "F80",
+            "long_value": "Mission"
+        },
+        {
+            "id": 31,
+            "short_value": "FOT",
+            "long_value": "FVREB Out of Town"
+        },
+        {
+            "id": 32,
+            "short_value": "VOT",
+            "long_value": "Out of Town"
+        },
+        {
+            "id": 33,
+            "short_value": "N10",
+            "long_value": "100 Mile House (Zone 10)"
+        },
+        {
+            "id": 34,
+            "short_value": "N27",
+            "long_value": "Williams Lake (Zone 27)"
+        },
+        {
+            "id": 35,
+            "short_value": "N28",
+            "long_value": "Quesnel (Zone 28)"
+        },
+        {
+            "id": 36,
+            "short_value": "N52",
+            "long_value": "Prince Rupert (Zone 52)"
+        },
+        {
+            "id": 37,
+            "short_value": "N53",
+            "long_value": "Houston (Zone 53)"
+        },
+        {
+            "id": 38,
+            "short_value": "N54",
+            "long_value": "Smithers And Area (Zone 54)"
+        },
+        {
+            "id": 39,
+            "short_value": "N55",
+            "long_value": "Burns Lake (Zone 55)"
+        },
+        {
+            "id": 40,
+            "short_value": "N56",
+            "long_value": "Vanderhoof And Area (Zone 56)"
+        },
+        {
+            "id": 41,
+            "short_value": "N57",
+            "long_value": "Fort St. James (Zone 57)"
+        },
+        {
+            "id": 42,
+            "short_value": "N60",
+            "long_value": "Fort St. John (Zone 60)"
+        },
+        {
+            "id": 43,
+            "short_value": "N64",
+            "long_value": "Fort Nelson (Zone 64)"
+        },
+        {
+            "id": 44,
+            "short_value": "N69",
+            "long_value": "Mackenzie (Zone 69)"
+        },
+        {
+            "id": 45,
+            "short_value": "N71",
+            "long_value": "PG City West (Zone 71)"
+        },
+        {
+            "id": 46,
+            "short_value": "N72",
+            "long_value": "PG City Central (Zone 72)"
+        },
+        {
+            "id": 47,
+            "short_value": "N73",
+            "long_value": "PG City North (Zone 73)"
+        },
+        {
+            "id": 48,
+            "short_value": "N74",
+            "long_value": "PG City South (Zone 74)"
+        },
+        {
+            "id": 49,
+            "short_value": "N75",
+            "long_value": "PG City South East (Zone 75)"
+        },
+        {
+            "id": 50,
+            "short_value": "N76",
+            "long_value": "PG Rural North (Zone 76)"
+        },
+        {
+            "id": 51,
+            "short_value": "N77",
+            "long_value": "PG Rural West (Zone 77)"
+        },
+        {
+            "id": 52,
+            "short_value": "N78",
+            "long_value": "PG Rural South (Zone 78)"
+        },
+        {
+            "id": 53,
+            "short_value": "N80",
+            "long_value": "PG Rural East (Zone 80)"
+        },
+        {
+            "id": 54,
+            "short_value": "N81",
+            "long_value": "Robson Valley (Zone 81)"
+        },
+        {
+            "id": 55,
+            "short_value": "N88",
+            "long_value": "Terrace (Zone 88)"
+        },
+        {
+            "id": 56,
+            "short_value": "N89",
+            "long_value": "Kitimat (Zone 89)"
+        },
+        {
+            "id": 57,
+            "short_value": "N90OT",
+            "long_value": "BCNREB Out of Area"
+        },
+        {
+            "id": 58,
+            "short_value": "F999",
+            "long_value": "FRV Fake Area"
+        },
+        {
+            "id": 59,
+            "short_value": "V999",
+            "long_value": "VAN Fake Area"
+        },
+        {
+            "id": 60,
+            "short_value": "H999",
+            "long_value": "CHI Fake Area"
+        },
+        {
+            "id": 61,
+            "short_value": "N999",
+            "long_value": "BCN Fake Area"
+        },
+        {
+            "id": 62,
+            "short_value": "H10",
+            "long_value": "Agassiz"
+        },
+        {
+            "id": 63,
+            "short_value": "H20",
+            "long_value": "Harrison Hot Springs"
+        },
+        {
+            "id": 64,
+            "short_value": "H30",
+            "long_value": "Harrison Mills / Mt Woodside"
+        },
+        {
+            "id": 65,
+            "short_value": "H40",
+            "long_value": "Hope"
+        },
+        {
+            "id": 66,
+            "short_value": "H50",
+            "long_value": "Rosedale"
+        },
+        {
+            "id": 67,
+            "short_value": "H60",
+            "long_value": "Cultus Lake"
+        },
+        {
+            "id": 68,
+            "short_value": "H70",
+            "long_value": "Sardis"
+        },
+        {
+            "id": 69,
+            "short_value": "H80",
+            "long_value": "Yarrow"
+        },
+        {
+            "id": 70,
+            "short_value": "H90",
+            "long_value": "Chilliwack"
+        },
+        {
+            "id": 71,
+            "short_value": "HOT",
+            "long_value": "Other CADREB"
+        },
+        {
+            "id": 72,
+            "short_value": "N90",
+            "long_value": "NOT IN USE"
+        }
+    ],
+    "info": {
+        "total": 72
+    }
+}}

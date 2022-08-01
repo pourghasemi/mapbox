@@ -1,0 +1,3099 @@
+{
+    "neighbourhoods":{
+        "data": [
+            {
+                "id": "F11",
+                "short_value": "F11",
+                "long_value": "Annieville"
+            },
+            {
+                "id": "F12",
+                "short_value": "F12",
+                "long_value": "Nordel"
+            },
+            {
+                "id": "F13",
+                "short_value": "F13",
+                "long_value": "Scottsdale"
+            },
+            {
+                "id": "F14",
+                "short_value": "F14",
+                "long_value": "Sunshine Hills Woods"
+            },
+            {
+                "id": "F21",
+                "short_value": "F21",
+                "long_value": "Bridgeview"
+            },
+            {
+                "id": "F22",
+                "short_value": "F22",
+                "long_value": "Bolivar Heights"
+            },
+            {
+                "id": "F23",
+                "short_value": "F23",
+                "long_value": "Fraser Heights"
+            },
+            {
+                "id": "F24",
+                "short_value": "F24",
+                "long_value": "Royal Heights"
+            },
+            {
+                "id": "F25",
+                "short_value": "F25",
+                "long_value": "Cedar Hills"
+            },
+            {
+                "id": "F26",
+                "short_value": "F26",
+                "long_value": "Whalley"
+            },
+            {
+                "id": "F27",
+                "short_value": "F27",
+                "long_value": "Guildford"
+            },
+            {
+                "id": "F28",
+                "short_value": "F28",
+                "long_value": "Port Kells"
+            },
+            {
+                "id": "F31",
+                "short_value": "F31",
+                "long_value": "Queen Mary Park Surrey"
+            },
+            {
+                "id": "F32",
+                "short_value": "F32",
+                "long_value": "Bear Creek Green Timbers"
+            },
+            {
+                "id": "F34",
+                "short_value": "F34",
+                "long_value": "Fleetwood Tynehead"
+            },
+            {
+                "id": "F36",
+                "short_value": "F36",
+                "long_value": "West Newton"
+            },
+            {
+                "id": "F37",
+                "short_value": "F37",
+                "long_value": "East Newton"
+            },
+            {
+                "id": "F38",
+                "short_value": "F38",
+                "long_value": "Panorama Ridge"
+            },
+            {
+                "id": "F39",
+                "short_value": "F39",
+                "long_value": "Sullivan Station"
+            },
+            {
+                "id": "F41",
+                "short_value": "F41",
+                "long_value": "Cloverdale BC"
+            },
+            {
+                "id": "F42",
+                "short_value": "F42",
+                "long_value": "Serpentine"
+            },
+            {
+                "id": "F43",
+                "short_value": "F43",
+                "long_value": "Clayton"
+            },
+            {
+                "id": "F51",
+                "short_value": "F51",
+                "long_value": "Elgin Chantrell"
+            },
+            {
+                "id": "F52",
+                "short_value": "F52",
+                "long_value": "Sunnyside Park Surrey"
+            },
+            {
+                "id": "F53",
+                "short_value": "F53",
+                "long_value": "Crescent Bch Ocean Pk."
+            },
+            {
+                "id": "F54",
+                "short_value": "F54",
+                "long_value": "White Rock"
+            },
+            {
+                "id": "F55",
+                "short_value": "F55",
+                "long_value": "King George Corridor"
+            },
+            {
+                "id": "F56",
+                "short_value": "F56",
+                "long_value": "Hazelmere"
+            },
+            {
+                "id": "F57",
+                "short_value": "F57",
+                "long_value": "Grandview Surrey"
+            },
+            {
+                "id": "F58",
+                "short_value": "F58",
+                "long_value": "Morgan Creek"
+            },
+            {
+                "id": "F59",
+                "short_value": "F59",
+                "long_value": "Pacific Douglas"
+            },
+            {
+                "id": "F60",
+                "short_value": "F60",
+                "long_value": "Murrayville"
+            },
+            {
+                "id": "F61",
+                "short_value": "F61",
+                "long_value": "Walnut Grove"
+            },
+            {
+                "id": "F62",
+                "short_value": "F62",
+                "long_value": "County Line Glen Valley"
+            },
+            {
+                "id": "F63",
+                "short_value": "F63",
+                "long_value": "Willoughby Heights"
+            },
+            {
+                "id": "F64",
+                "short_value": "F64",
+                "long_value": "Salmon River"
+            },
+            {
+                "id": "F65",
+                "short_value": "F65",
+                "long_value": "Brookswood Langley"
+            },
+            {
+                "id": "F66",
+                "short_value": "F66",
+                "long_value": "Aldergrove Langley"
+            },
+            {
+                "id": "F67",
+                "short_value": "F67",
+                "long_value": "Campbell Valley"
+            },
+            {
+                "id": "F68",
+                "short_value": "F68",
+                "long_value": "Otter District"
+            },
+            {
+                "id": "F69",
+                "short_value": "F69",
+                "long_value": "Fort Langley"
+            },
+            {
+                "id": "F6A",
+                "short_value": "F6A",
+                "long_value": "Langley City"
+            },
+            {
+                "id": "F70",
+                "short_value": "F70",
+                "long_value": "Poplar"
+            },
+            {
+                "id": "F71",
+                "short_value": "F71",
+                "long_value": "Bradner"
+            },
+            {
+                "id": "F72",
+                "short_value": "F72",
+                "long_value": "Matsqui"
+            },
+            {
+                "id": "F73",
+                "short_value": "F73",
+                "long_value": "Sumas Mountain"
+            },
+            {
+                "id": "F74",
+                "short_value": "F74",
+                "long_value": "Abbotsford West"
+            },
+            {
+                "id": "F75",
+                "short_value": "F75",
+                "long_value": "Abbotsford East"
+            },
+            {
+                "id": "F76",
+                "short_value": "F76",
+                "long_value": "Aberdeen"
+            },
+            {
+                "id": "F77",
+                "short_value": "F77",
+                "long_value": "Sumas Prairie"
+            },
+            {
+                "id": "F78",
+                "short_value": "F78",
+                "long_value": "Central Abbotsford"
+            },
+            {
+                "id": "F80",
+                "short_value": "F80",
+                "long_value": "Hatzic"
+            },
+            {
+                "id": "F81",
+                "short_value": "F81",
+                "long_value": "Stave Falls"
+            },
+            {
+                "id": "F82",
+                "short_value": "F82",
+                "long_value": "Steelhead"
+            },
+            {
+                "id": "F83",
+                "short_value": "F83",
+                "long_value": "Mission BC"
+            },
+            {
+                "id": "F84",
+                "short_value": "F84",
+                "long_value": "Durieu"
+            },
+            {
+                "id": "F85",
+                "short_value": "F85",
+                "long_value": "Dewdney Deroche"
+            },
+            {
+                "id": "F86",
+                "short_value": "F86",
+                "long_value": "Lake Errock"
+            },
+            {
+                "id": "F87",
+                "short_value": "F87",
+                "long_value": "Hemlock"
+            },
+            {
+                "id": "F88",
+                "short_value": "F88",
+                "long_value": "Mission-West"
+            },
+            {
+                "id": "F999",
+                "short_value": "F999",
+                "long_value": "FRV Fake SubAreaComm"
+            },
+            {
+                "id": "FOT",
+                "short_value": "FOT",
+                "long_value": "FVREB Out of Town"
+            },
+            {
+                "id": "H91",
+                "short_value": "H91",
+                "long_value": "Chilliwack W Young-Well"
+            },
+            {
+                "id": "H92",
+                "short_value": "H92",
+                "long_value": "Chilliwack E Young-Yale"
+            },
+            {
+                "id": "H93",
+                "short_value": "H93",
+                "long_value": "Chilliwack N Yale-Well"
+            },
+            {
+                "id": "H94",
+                "short_value": "H94",
+                "long_value": "Chilliwack Yale Rd West"
+            },
+            {
+                "id": "H95",
+                "short_value": "H95",
+                "long_value": "Little Mountain"
+            },
+            {
+                "id": "H96",
+                "short_value": "H96",
+                "long_value": "Chilliwack Mountain"
+            },
+            {
+                "id": "H97",
+                "short_value": "H97",
+                "long_value": "Fairfield Island"
+            },
+            {
+                "id": "H98",
+                "short_value": "H98",
+                "long_value": "East Chilliwack"
+            },
+            {
+                "id": "H99",
+                "short_value": "H99",
+                "long_value": "Eastern Hillsides"
+            },
+            {
+                "id": "H999",
+                "short_value": "H999",
+                "long_value": "CHI Fake SubAreaComm"
+            },
+            {
+                "id": "H9A",
+                "short_value": "H9A",
+                "long_value": "Rosedale Center"
+            },
+            {
+                "id": "H9B",
+                "short_value": "H9B",
+                "long_value": "Rosedale Popkum"
+            },
+            {
+                "id": "H9C",
+                "short_value": "H9C",
+                "long_value": "Sardis West Vedder Rd"
+            },
+            {
+                "id": "H9D",
+                "short_value": "H9D",
+                "long_value": "Sardis East Vedder Rd"
+            },
+            {
+                "id": "H9E",
+                "short_value": "H9E",
+                "long_value": "Vedder S Watson-Promontory"
+            },
+            {
+                "id": "H9F",
+                "short_value": "H9F",
+                "long_value": "Promontory"
+            },
+            {
+                "id": "H9G",
+                "short_value": "H9G",
+                "long_value": "Ryder Lake"
+            },
+            {
+                "id": "H9H",
+                "short_value": "H9H",
+                "long_value": "Yarrow"
+            },
+            {
+                "id": "H9I",
+                "short_value": "H9I",
+                "long_value": "Majuba Hill"
+            },
+            {
+                "id": "H9J",
+                "short_value": "H9J",
+                "long_value": "Greendale Chilliwack"
+            },
+            {
+                "id": "H9K",
+                "short_value": "H9K",
+                "long_value": "Cultus Lake"
+            },
+            {
+                "id": "H9L",
+                "short_value": "H9L",
+                "long_value": "Columbia Valley"
+            },
+            {
+                "id": "H9M",
+                "short_value": "H9M",
+                "long_value": "Chilliwack River Valley"
+            },
+            {
+                "id": "H9N",
+                "short_value": "H9N",
+                "long_value": "Agassiz"
+            },
+            {
+                "id": "H9P",
+                "short_value": "H9P",
+                "long_value": "Harrison Mills"
+            },
+            {
+                "id": "H9Q",
+                "short_value": "H9Q",
+                "long_value": "Harrison Hot Springs"
+            },
+            {
+                "id": "H9R",
+                "short_value": "H9R",
+                "long_value": "Hope Center"
+            },
+            {
+                "id": "H9S",
+                "short_value": "H9S",
+                "long_value": "Hope Laidlaw"
+            },
+            {
+                "id": "H9T",
+                "short_value": "H9T",
+                "long_value": "Hope Kawkawa Lake"
+            },
+            {
+                "id": "H9U",
+                "short_value": "H9U",
+                "long_value": "Hope Silver Creek"
+            },
+            {
+                "id": "H9V",
+                "short_value": "H9V",
+                "long_value": "Hope Sunshine Valley"
+            },
+            {
+                "id": "H9W",
+                "short_value": "H9W",
+                "long_value": "Boston Bar - Lytton"
+            },
+            {
+                "id": "H9X",
+                "short_value": "H9X",
+                "long_value": "Yale - Dogwood Valley"
+            },
+            {
+                "id": "H9Y",
+                "short_value": "H9Y",
+                "long_value": "Mt Woodside"
+            },
+            {
+                "id": "H9Z",
+                "short_value": "H9Z",
+                "long_value": "Lindell Beach"
+            },
+            {
+                "id": "N1003",
+                "short_value": "N1003",
+                "long_value": "103 Mile House"
+            },
+            {
+                "id": "N1008",
+                "short_value": "N1008",
+                "long_value": "108 Ranch"
+            },
+            {
+                "id": "N1070",
+                "short_value": "N1070",
+                "long_value": "70 Mile House"
+            },
+            {
+                "id": "N10BS",
+                "short_value": "N10BS",
+                "long_value": "Bridge Lake/Sheridan Lake"
+            },
+            {
+                "id": "N10CM",
+                "short_value": "N10CM",
+                "long_value": "Canim/Mahood Lake"
+            },
+            {
+                "id": "N10DS",
+                "short_value": "N10DS",
+                "long_value": "Deka/Sulphurous/Hathaway Lakes"
+            },
+            {
+                "id": "N10FG",
+                "short_value": "N10FG",
+                "long_value": "Forest Grove"
+            },
+            {
+                "id": "N10HL",
+                "short_value": "N10HL",
+                "long_value": "Horse Lake"
+            },
+            {
+                "id": "N10HM",
+                "short_value": "N10HM",
+                "long_value": "100 Mile House - Town"
+            },
+            {
+                "id": "N10HR",
+                "short_value": "N10HR",
+                "long_value": "100 Mile House - Rural"
+            },
+            {
+                "id": "N10HW",
+                "short_value": "N10HW",
+                "long_value": "100 Mile House - West"
+            },
+            {
+                "id": "N10LB",
+                "short_value": "N10LB",
+                "long_value": "Lone Butte/Green Lk/Watch Lk"
+            },
+            {
+                "id": "N10LL",
+                "short_value": "N10LL",
+                "long_value": "Lac la Hache"
+            },
+            {
+                "id": "N2750",
+                "short_value": "N2750",
+                "long_value": "150 Mile House"
+            },
+            {
+                "id": "N27BH",
+                "short_value": "N27BH",
+                "long_value": "Bella Coola/Hagensborg"
+            },
+            {
+                "id": "N27ED",
+                "short_value": "N27ED",
+                "long_value": "Esler/Dog Creek"
+            },
+            {
+                "id": "N27HF",
+                "short_value": "N27HF",
+                "long_value": "Horsefly"
+            },
+            {
+                "id": "N27LA",
+                "short_value": "N27LA",
+                "long_value": "Lakeside Rural"
+            },
+            {
+                "id": "N27LI",
+                "short_value": "N27LI",
+                "long_value": "Likely"
+            },
+            {
+                "id": "N27MC",
+                "short_value": "N27MC",
+                "long_value": "McLeese Lake"
+            },
+            {
+                "id": "N27RE",
+                "short_value": "N27RE",
+                "long_value": "Williams Lake - Rural East"
+            },
+            {
+                "id": "N27RN",
+                "short_value": "N27RN",
+                "long_value": "Williams Lake - Rural North"
+            },
+            {
+                "id": "N27RS",
+                "short_value": "N27RS",
+                "long_value": "Williams Lake - Rural South"
+            },
+            {
+                "id": "N27RW",
+                "short_value": "N27RW",
+                "long_value": "Williams Lake - Rural West"
+            },
+            {
+                "id": "N27WL",
+                "short_value": "N27WL",
+                "long_value": "Williams Lake - City"
+            },
+            {
+                "id": "N28BL",
+                "short_value": "N28BL",
+                "long_value": "Bouchie Lake"
+            },
+            {
+                "id": "N28NE",
+                "short_value": "N28NE",
+                "long_value": "Quesnel - Rural North"
+            },
+            {
+                "id": "N28QS",
+                "short_value": "N28QS",
+                "long_value": "Quesnel - South Hills"
+            },
+            {
+                "id": "N28QU",
+                "short_value": "N28QU",
+                "long_value": "Quesnel - Town"
+            },
+            {
+                "id": "N28RD",
+                "short_value": "N28RD",
+                "long_value": "Red Bluff/Dragon Lake"
+            },
+            {
+                "id": "N28RS",
+                "short_value": "N28RS",
+                "long_value": "Quesnel Rural - South"
+            },
+            {
+                "id": "N28WE",
+                "short_value": "N28WE",
+                "long_value": "Wells/Barkerville"
+            },
+            {
+                "id": "N28WQ",
+                "short_value": "N28WQ",
+                "long_value": "Quesnel - Rural West"
+            },
+            {
+                "id": "N52PR",
+                "short_value": "N52PR",
+                "long_value": "Prince Rupert - City"
+            },
+            {
+                "id": "N52PT",
+                "short_value": "N52PT",
+                "long_value": "Port Edward"
+            },
+            {
+                "id": "N52QC",
+                "short_value": "N52QC",
+                "long_value": "Queen Charlotte - Rural"
+            },
+            {
+                "id": "N52QM",
+                "short_value": "N52QM",
+                "long_value": "Masset"
+            },
+            {
+                "id": "N52QP",
+                "short_value": "N52QP",
+                "long_value": "Port Clements"
+            },
+            {
+                "id": "N52RR",
+                "short_value": "N52RR",
+                "long_value": "Prince Rupert - Rural"
+            },
+            {
+                "id": "N53HO",
+                "short_value": "N53HO",
+                "long_value": "Houston - Town"
+            },
+            {
+                "id": "N53RU",
+                "short_value": "N53RU",
+                "long_value": "Houston - Rural"
+            },
+            {
+                "id": "N54HA",
+                "short_value": "N54HA",
+                "long_value": "Hazelton"
+            },
+            {
+                "id": "N54HT",
+                "short_value": "N54HT",
+                "long_value": "Telkwa"
+            },
+            {
+                "id": "N54KI",
+                "short_value": "N54KI",
+                "long_value": "Kitwanga"
+            },
+            {
+                "id": "N54RU",
+                "short_value": "N54RU",
+                "long_value": "Smithers - Rural"
+            },
+            {
+                "id": "N54SM",
+                "short_value": "N54SM",
+                "long_value": "Smithers - Town"
+            },
+            {
+                "id": "N55BE",
+                "short_value": "N55BE",
+                "long_value": "Burns Lake - Rural East"
+            },
+            {
+                "id": "N55BL",
+                "short_value": "N55BL",
+                "long_value": "Burns Lake - Town"
+            },
+            {
+                "id": "N55BN",
+                "short_value": "N55BN",
+                "long_value": "Burns Lake - Rural North"
+            },
+            {
+                "id": "N55BS",
+                "short_value": "N55BS",
+                "long_value": "Burns Lake - Rural South"
+            },
+            {
+                "id": "N55BW",
+                "short_value": "N55BW",
+                "long_value": "Burns Lake - Rural West"
+            },
+            {
+                "id": "N55FR",
+                "short_value": "N55FR",
+                "long_value": "South Francois"
+            },
+            {
+                "id": "N55GR",
+                "short_value": "N55GR",
+                "long_value": "Granisle"
+            },
+            {
+                "id": "N55TO",
+                "short_value": "N55TO",
+                "long_value": "Topley"
+            },
+            {
+                "id": "N56FL",
+                "short_value": "N56FL",
+                "long_value": "Fraser Lake"
+            },
+            {
+                "id": "N56FR",
+                "short_value": "N56FR",
+                "long_value": "Fort Fraser"
+            },
+            {
+                "id": "N56RU",
+                "short_value": "N56RU",
+                "long_value": "Vanderhoof - Rural"
+            },
+            {
+                "id": "N56VA",
+                "short_value": "N56VA",
+                "long_value": "Vanderhoof - Town"
+            },
+            {
+                "id": "N57RU",
+                "short_value": "N57RU",
+                "long_value": "Fort St. James - Rural"
+            },
+            {
+                "id": "N57SJ",
+                "short_value": "N57SJ",
+                "long_value": "Fort St. James - Town"
+            },
+            {
+                "id": "N60HU",
+                "short_value": "N60HU",
+                "long_value": "Hudsons Hope"
+            },
+            {
+                "id": "N60LA",
+                "short_value": "N60LA",
+                "long_value": "Lakeshore"
+            },
+            {
+                "id": "N60NE",
+                "short_value": "N60NE",
+                "long_value": "Fort St. John - City NE"
+            },
+            {
+                "id": "N60NW",
+                "short_value": "N60NW",
+                "long_value": "Fort St. John - City NW"
+            },
+            {
+                "id": "N60RE",
+                "short_value": "N60RE",
+                "long_value": "Fort St. John - Rural E 100th"
+            },
+            {
+                "id": "N60RW",
+                "short_value": "N60RW",
+                "long_value": "Fort St. John - Rural W 100th"
+            },
+            {
+                "id": "N60SE",
+                "short_value": "N60SE",
+                "long_value": "Fort St. John - City SE"
+            },
+            {
+                "id": "N60SP",
+                "short_value": "N60SP",
+                "long_value": "Fort St. John - South Peace"
+            },
+            {
+                "id": "N60SW",
+                "short_value": "N60SW",
+                "long_value": "Fort St. John - City SW"
+            },
+            {
+                "id": "N60TA",
+                "short_value": "N60TA",
+                "long_value": "Taylor"
+            },
+            {
+                "id": "N64FN",
+                "short_value": "N64FN",
+                "long_value": "Fort Nelson -Town"
+            },
+            {
+                "id": "N64RM",
+                "short_value": "N64RM",
+                "long_value": "Fort Nelson - Remote"
+            },
+            {
+                "id": "N64RU",
+                "short_value": "N64RU",
+                "long_value": "Fort Nelson - Rural"
+            },
+            {
+                "id": "N69MK",
+                "short_value": "N69MK",
+                "long_value": "Mackenzie -Town"
+            },
+            {
+                "id": "N69ML",
+                "short_value": "N69ML",
+                "long_value": "McLeod Lake"
+            },
+            {
+                "id": "N69RU",
+                "short_value": "N69RU",
+                "long_value": "Mackenzie - Rural"
+            },
+            {
+                "id": "N71CA",
+                "short_value": "N71CA",
+                "long_value": "Carter Light"
+            },
+            {
+                "id": "N71CB",
+                "short_value": "N71CB",
+                "long_value": "Cranbrook Hill"
+            },
+            {
+                "id": "N71FO",
+                "short_value": "N71FO",
+                "long_value": "Foothills"
+            },
+            {
+                "id": "N71FR",
+                "short_value": "N71FR",
+                "long_value": "Fraserview"
+            },
+            {
+                "id": "N71HE",
+                "short_value": "N71HE",
+                "long_value": "Heritage"
+            },
+            {
+                "id": "N71HG",
+                "short_value": "N71HG",
+                "long_value": "Highglen"
+            },
+            {
+                "id": "N71HL",
+                "short_value": "N71HL",
+                "long_value": "Highland Park"
+            },
+            {
+                "id": "N71LA",
+                "short_value": "N71LA",
+                "long_value": "Lakewood"
+            },
+            {
+                "id": "N71PC",
+                "short_value": "N71PC",
+                "long_value": "Pinecone"
+            },
+            {
+                "id": "N71PE",
+                "short_value": "N71PE",
+                "long_value": "Perry"
+            },
+            {
+                "id": "N71PH",
+                "short_value": "N71PH",
+                "long_value": "Peden Hill"
+            },
+            {
+                "id": "N71PW",
+                "short_value": "N71PW",
+                "long_value": "Pinewood"
+            },
+            {
+                "id": "N71QU",
+                "short_value": "N71QU",
+                "long_value": "Quinson"
+            },
+            {
+                "id": "N71SL",
+                "short_value": "N71SL",
+                "long_value": "Spruceland"
+            },
+            {
+                "id": "N71WW",
+                "short_value": "N71WW",
+                "long_value": "Westwood"
+            },
+            {
+                "id": "N72AS",
+                "short_value": "N72AS",
+                "long_value": "Assman"
+            },
+            {
+                "id": "N72CE",
+                "short_value": "N72CE",
+                "long_value": "Central"
+            },
+            {
+                "id": "N72CO",
+                "short_value": "N72CO",
+                "long_value": "Connaught"
+            },
+            {
+                "id": "N72CR",
+                "short_value": "N72CR",
+                "long_value": "Crescents"
+            },
+            {
+                "id": "N72DT",
+                "short_value": "N72DT",
+                "long_value": "Downtown"
+            },
+            {
+                "id": "N72EE",
+                "short_value": "N72EE",
+                "long_value": "East End"
+            },
+            {
+                "id": "N72MD",
+                "short_value": "N72MD",
+                "long_value": "Millar Addition"
+            },
+            {
+                "id": "N72NV",
+                "short_value": "N72NV",
+                "long_value": "Nechako View"
+            },
+            {
+                "id": "N72SE",
+                "short_value": "N72SE",
+                "long_value": "Seymour"
+            },
+            {
+                "id": "N72SF",
+                "short_value": "N72SF",
+                "long_value": "South Fort George"
+            },
+            {
+                "id": "N72VB",
+                "short_value": "N72VB",
+                "long_value": "Van Bow"
+            },
+            {
+                "id": "N72VL",
+                "short_value": "N72VL",
+                "long_value": "VLA"
+            },
+            {
+                "id": "N73AB",
+                "short_value": "N73AB",
+                "long_value": "Aberdeen PG"
+            },
+            {
+                "id": "N73BW",
+                "short_value": "N73BW",
+                "long_value": "Birchwood"
+            },
+            {
+                "id": "N73EM",
+                "short_value": "N73EM",
+                "long_value": "Emerald"
+            },
+            {
+                "id": "N73ET",
+                "short_value": "N73ET",
+                "long_value": "Edgewood Terrace"
+            },
+            {
+                "id": "N73HH",
+                "short_value": "N73HH",
+                "long_value": "Hart Highlands"
+            },
+            {
+                "id": "N73HV",
+                "short_value": "N73HV",
+                "long_value": "Harper Valley"
+            },
+            {
+                "id": "N73HW",
+                "short_value": "N73HW",
+                "long_value": "Hart Highway"
+            },
+            {
+                "id": "N73IN",
+                "short_value": "N73IN",
+                "long_value": "Ingala"
+            },
+            {
+                "id": "N73MA",
+                "short_value": "N73MA",
+                "long_value": "Mount Alder"
+            },
+            {
+                "id": "N73NC",
+                "short_value": "N73NC",
+                "long_value": "Nechako Bench"
+            },
+            {
+                "id": "N73NK",
+                "short_value": "N73NK",
+                "long_value": "North Kelly"
+            },
+            {
+                "id": "N73NM",
+                "short_value": "N73NM",
+                "long_value": "North Meadows"
+            },
+            {
+                "id": "N73NR",
+                "short_value": "N73NR",
+                "long_value": "Nechako Ridge"
+            },
+            {
+                "id": "N73OS",
+                "short_value": "N73OS",
+                "long_value": "Old Summit Lake Road"
+            },
+            {
+                "id": "N73VV",
+                "short_value": "N73VV",
+                "long_value": "Valleyview"
+            },
+            {
+                "id": "N73WA",
+                "short_value": "N73WA",
+                "long_value": "West Austin"
+            },
+            {
+                "id": "N74CS",
+                "short_value": "N74CS",
+                "long_value": "Charella/Starlane"
+            },
+            {
+                "id": "N74GA",
+                "short_value": "N74GA",
+                "long_value": "Gauthier"
+            },
+            {
+                "id": "N74HA",
+                "short_value": "N74HA",
+                "long_value": "Haldi"
+            },
+            {
+                "id": "N74JE",
+                "short_value": "N74JE",
+                "long_value": "Jensen"
+            },
+            {
+                "id": "N74LC",
+                "short_value": "N74LC",
+                "long_value": "Lower College"
+            },
+            {
+                "id": "N74LF",
+                "short_value": "N74LF",
+                "long_value": "Lafreniere"
+            },
+            {
+                "id": "N74PA",
+                "short_value": "N74PA",
+                "long_value": "Parkridge"
+            },
+            {
+                "id": "N74ST",
+                "short_value": "N74ST",
+                "long_value": "St. Lawrence Heights"
+            },
+            {
+                "id": "N74UC",
+                "short_value": "N74UC",
+                "long_value": "Upper College"
+            },
+            {
+                "id": "N74WA",
+                "short_value": "N74WA",
+                "long_value": "Western Acres"
+            },
+            {
+                "id": "N75AP",
+                "short_value": "N75AP",
+                "long_value": "Airport"
+            },
+            {
+                "id": "N75BC",
+                "short_value": "N75BC",
+                "long_value": "BCR Industrial"
+            },
+            {
+                "id": "N75DA",
+                "short_value": "N75DA",
+                "long_value": "Danson"
+            },
+            {
+                "id": "N75NB",
+                "short_value": "N75NB",
+                "long_value": "North Blackburn"
+            },
+            {
+                "id": "N75SB",
+                "short_value": "N75SB",
+                "long_value": "South Blackburn"
+            },
+            {
+                "id": "N75SN",
+                "short_value": "N75SN",
+                "long_value": "Sintich"
+            },
+            {
+                "id": "N76BL",
+                "short_value": "N76BL",
+                "long_value": "Bear Lake"
+            },
+            {
+                "id": "N76CH",
+                "short_value": "N76CH",
+                "long_value": "Chief Lake Road"
+            },
+            {
+                "id": "N76HR",
+                "short_value": "N76HR",
+                "long_value": "Hobby Ranches"
+            },
+            {
+                "id": "N76NE",
+                "short_value": "N76NE",
+                "long_value": "Ness Lake"
+            },
+            {
+                "id": "N76NU",
+                "short_value": "N76NU",
+                "long_value": "Nukko Lake"
+            },
+            {
+                "id": "N76RE",
+                "short_value": "N76RE",
+                "long_value": "Reid Lake"
+            },
+            {
+                "id": "N76SU",
+                "short_value": "N76SU",
+                "long_value": "Summit Lake"
+            },
+            {
+                "id": "N76SV",
+                "short_value": "N76SV",
+                "long_value": "Salmon Valley"
+            },
+            {
+                "id": "N77BD",
+                "short_value": "N77BD",
+                "long_value": "Bednesti"
+            },
+            {
+                "id": "N77BK",
+                "short_value": "N77BK",
+                "long_value": "Blackwater"
+            },
+            {
+                "id": "N77BV",
+                "short_value": "N77BV",
+                "long_value": "Beaverley"
+            },
+            {
+                "id": "N77CL",
+                "short_value": "N77CL",
+                "long_value": "Cluculz Lake"
+            },
+            {
+                "id": "N77IP",
+                "short_value": "N77IP",
+                "long_value": "Isle Pierre"
+            },
+            {
+                "id": "N77LM",
+                "short_value": "N77LM",
+                "long_value": "Lower Mud"
+            },
+            {
+                "id": "N77MI",
+                "short_value": "N77MI",
+                "long_value": "Miworth"
+            },
+            {
+                "id": "N77UM",
+                "short_value": "N77UM",
+                "long_value": "Upper Mud"
+            },
+            {
+                "id": "N78BH",
+                "short_value": "N78BH",
+                "long_value": "Buckhorn"
+            },
+            {
+                "id": "N78HI",
+                "short_value": "N78HI",
+                "long_value": "Hixon"
+            },
+            {
+                "id": "N78PV",
+                "short_value": "N78PV",
+                "long_value": "Pineview"
+            },
+            {
+                "id": "N78RR",
+                "short_value": "N78RR",
+                "long_value": "Red Rock/Stoner"
+            },
+            {
+                "id": "N80GI",
+                "short_value": "N80GI",
+                "long_value": "Giscome/Ferndale"
+            },
+            {
+                "id": "N80HD",
+                "short_value": "N80HD",
+                "long_value": "Hansard"
+            },
+            {
+                "id": "N80PU",
+                "short_value": "N80PU",
+                "long_value": "Purden"
+            },
+            {
+                "id": "N80SH",
+                "short_value": "N80SH",
+                "long_value": "Shelley"
+            },
+            {
+                "id": "N80TL",
+                "short_value": "N80TL",
+                "long_value": "Tabor Lake"
+            },
+            {
+                "id": "N80UF",
+                "short_value": "N80UF",
+                "long_value": "Upper Fraser"
+            },
+            {
+                "id": "N80WI",
+                "short_value": "N80WI",
+                "long_value": "Willow River"
+            },
+            {
+                "id": "N81DC",
+                "short_value": "N81DC",
+                "long_value": "Dome Creek"
+            },
+            {
+                "id": "N81MB",
+                "short_value": "N81MB",
+                "long_value": "McBride - Town"
+            },
+            {
+                "id": "N81MW",
+                "short_value": "N81MW",
+                "long_value": "McBride - Rural West"
+            },
+            {
+                "id": "N81VM",
+                "short_value": "N81VM",
+                "long_value": "Valemount - Town"
+            },
+            {
+                "id": "N81VS",
+                "short_value": "N81VS",
+                "long_value": "Valemount - Rural South"
+            },
+            {
+                "id": "N81VW",
+                "short_value": "N81VW",
+                "long_value": "Valemount - Rural West"
+            },
+            {
+                "id": "N88AT",
+                "short_value": "N88AT",
+                "long_value": "Atlin"
+            },
+            {
+                "id": "N88LL",
+                "short_value": "N88LL",
+                "long_value": "Lakelse Lake"
+            },
+            {
+                "id": "N88NW",
+                "short_value": "N88NW",
+                "long_value": "Terrace - Northwest/Rosswood"
+            },
+            {
+                "id": "N88RE",
+                "short_value": "N88RE",
+                "long_value": "Terrace - Rural East/Cedarvale"
+            },
+            {
+                "id": "N88SC",
+                "short_value": "N88SC",
+                "long_value": "Stewart/Cassiar"
+            },
+            {
+                "id": "N88SW",
+                "short_value": "N88SW",
+                "long_value": "Terrace - Rural Southwest"
+            },
+            {
+                "id": "N88TE",
+                "short_value": "N88TE",
+                "long_value": "Terrace - City"
+            },
+            {
+                "id": "N88TH",
+                "short_value": "N88TH",
+                "long_value": "Thornhill"
+            },
+            {
+                "id": "N89KI",
+                "short_value": "N89KI",
+                "long_value": "Kitimat"
+            },
+            {
+                "id": "N90",
+                "short_value": "N90",
+                "long_value": "BCNREB"
+            },
+            {
+                "id": "N90OT",
+                "short_value": "N90OT",
+                "long_value": "BCNREB Out of Area"
+            },
+            {
+                "id": "N999",
+                "short_value": "N999",
+                "long_value": "BCN Fake SubAreaComm"
+            },
+            {
+                "id": "V999",
+                "short_value": "V999",
+                "long_value": "VAN Fake SubAreaComm"
+            },
+            {
+                "id": "VBDBD",
+                "short_value": "VBDBD",
+                "long_value": "Bowen Island"
+            },
+            {
+                "id": "VBEBE",
+                "short_value": "VBEBE",
+                "long_value": "East Burnaby"
+            },
+            {
+                "id": "VBECR",
+                "short_value": "VBECR",
+                "long_value": "The Crest"
+            },
+            {
+                "id": "VBEED",
+                "short_value": "VBEED",
+                "long_value": "Edmonds BE"
+            },
+            {
+                "id": "VBNBP",
+                "short_value": "VBNBP",
+                "long_value": "Brentwood Park"
+            },
+            {
+                "id": "VBNCA",
+                "short_value": "VBNCA",
+                "long_value": "Cariboo"
+            },
+            {
+                "id": "VBNCB",
+                "short_value": "VBNCB",
+                "long_value": "Central BN"
+            },
+            {
+                "id": "VBNCH",
+                "short_value": "VBNCH",
+                "long_value": "Capitol Hill BN"
+            },
+            {
+                "id": "VBNFH",
+                "short_value": "VBNFH",
+                "long_value": "Forest Hills BN"
+            },
+            {
+                "id": "VBNGR",
+                "short_value": "VBNGR",
+                "long_value": "Government Road"
+            },
+            {
+                "id": "VBNLC",
+                "short_value": "VBNLC",
+                "long_value": "Lake City Industrial"
+            },
+            {
+                "id": "VBNMO",
+                "short_value": "VBNMO",
+                "long_value": "Montecito"
+            },
+            {
+                "id": "VBNOK",
+                "short_value": "VBNOK",
+                "long_value": "Oakdale"
+            },
+            {
+                "id": "VBNPC",
+                "short_value": "VBNPC",
+                "long_value": "Parkcrest"
+            },
+            {
+                "id": "VBNSD",
+                "short_value": "VBNSD",
+                "long_value": "Sperling-Duthie"
+            },
+            {
+                "id": "VBNSF",
+                "short_value": "VBNSF",
+                "long_value": "Simon Fraser Univer."
+            },
+            {
+                "id": "VBNSH",
+                "short_value": "VBNSH",
+                "long_value": "Sullivan Heights"
+            },
+            {
+                "id": "VBNSI",
+                "short_value": "VBNSI",
+                "long_value": "Simon Fraser Hills"
+            },
+            {
+                "id": "VBNVH",
+                "short_value": "VBNVH",
+                "long_value": "Vancouver Heights"
+            },
+            {
+                "id": "VBNWH",
+                "short_value": "VBNWH",
+                "long_value": "Willingdon Heights"
+            },
+            {
+                "id": "VBNWR",
+                "short_value": "VBNWR",
+                "long_value": "Westridge BN"
+            },
+            {
+                "id": "VBSBB",
+                "short_value": "VBSBB",
+                "long_value": "Big Bend"
+            },
+            {
+                "id": "VBSBH",
+                "short_value": "VBSBH",
+                "long_value": "Burnaby Hospital"
+            },
+            {
+                "id": "VBSBK",
+                "short_value": "VBSBK",
+                "long_value": "Buckingham Heights"
+            },
+            {
+                "id": "VBSBL",
+                "short_value": "VBSBL",
+                "long_value": "Burnaby Lake"
+            },
+            {
+                "id": "VBSCP",
+                "short_value": "VBSCP",
+                "long_value": "Central Park BS"
+            },
+            {
+                "id": "VBSDL",
+                "short_value": "VBSDL",
+                "long_value": "Deer Lake"
+            },
+            {
+                "id": "VBSDP",
+                "short_value": "VBSDP",
+                "long_value": "Deer Lake Place"
+            },
+            {
+                "id": "VBSFG",
+                "short_value": "VBSFG",
+                "long_value": "Forest Glen BS"
+            },
+            {
+                "id": "VBSGT",
+                "short_value": "VBSGT",
+                "long_value": "Greentree Village"
+            },
+            {
+                "id": "VBSGV",
+                "short_value": "VBSGV",
+                "long_value": "Garden Village"
+            },
+            {
+                "id": "VBSHG",
+                "short_value": "VBSHG",
+                "long_value": "Highgate"
+            },
+            {
+                "id": "VBSME",
+                "short_value": "VBSME",
+                "long_value": "Metrotown"
+            },
+            {
+                "id": "VBSOL",
+                "short_value": "VBSOL",
+                "long_value": "Oaklands"
+            },
+            {
+                "id": "VBSSC",
+                "short_value": "VBSSC",
+                "long_value": "Suncrest"
+            },
+            {
+                "id": "VBSSS",
+                "short_value": "VBSSS",
+                "long_value": "South Slope"
+            },
+            {
+                "id": "VBSUD",
+                "short_value": "VBSUD",
+                "long_value": "Upper Deer Lake"
+            },
+            {
+                "id": "VCQBM",
+                "short_value": "VCQBM",
+                "long_value": "Burke Mountain"
+            },
+            {
+                "id": "VCQCC",
+                "short_value": "VCQCC",
+                "long_value": "Central Coquitlam"
+            },
+            {
+                "id": "VCQCE",
+                "short_value": "VCQCE",
+                "long_value": "Coquitlam East"
+            },
+            {
+                "id": "VCQCH",
+                "short_value": "VCQCH",
+                "long_value": "Cape Horn"
+            },
+            {
+                "id": "VCQCS",
+                "short_value": "VCQCS",
+                "long_value": "Chineside"
+            },
+            {
+                "id": "VCQCW",
+                "short_value": "VCQCW",
+                "long_value": "Coquitlam West"
+            },
+            {
+                "id": "VCQCY",
+                "short_value": "VCQCY",
+                "long_value": "Canyon Springs"
+            },
+            {
+                "id": "VCQER",
+                "short_value": "VCQER",
+                "long_value": "Eagle Ridge CQ"
+            },
+            {
+                "id": "VCQHC",
+                "short_value": "VCQHC",
+                "long_value": "Harbour Chines"
+            },
+            {
+                "id": "VCQHO",
+                "short_value": "VCQHO",
+                "long_value": "Hockaday"
+            },
+            {
+                "id": "VCQHP",
+                "short_value": "VCQHP",
+                "long_value": "Harbour Place"
+            },
+            {
+                "id": "VCQMB",
+                "short_value": "VCQMB",
+                "long_value": "Meadow Brook"
+            },
+            {
+                "id": "VCQML",
+                "short_value": "VCQML",
+                "long_value": "Maillardville"
+            },
+            {
+                "id": "VCQNC",
+                "short_value": "VCQNC",
+                "long_value": "North Coquitlam"
+            },
+            {
+                "id": "VCQNH",
+                "short_value": "VCQNH",
+                "long_value": "New Horizons"
+            },
+            {
+                "id": "VCQPR",
+                "short_value": "VCQPR",
+                "long_value": "Park Ridge Estates"
+            },
+            {
+                "id": "VCQRP",
+                "short_value": "VCQRP",
+                "long_value": "Ranch Park"
+            },
+            {
+                "id": "VCQRS",
+                "short_value": "VCQRS",
+                "long_value": "River Springs"
+            },
+            {
+                "id": "VCQSC",
+                "short_value": "VCQSC",
+                "long_value": "Scott Creek"
+            },
+            {
+                "id": "VCQSV",
+                "short_value": "VCQSV",
+                "long_value": "Summitt View"
+            },
+            {
+                "id": "VCQUE",
+                "short_value": "VCQUE",
+                "long_value": "Upper Eagle Ridge"
+            },
+            {
+                "id": "VCQWP",
+                "short_value": "VCQWP",
+                "long_value": "Westwood Plateau"
+            },
+            {
+                "id": "VCQWS",
+                "short_value": "VCQWS",
+                "long_value": "Westwood Summit CQ"
+            },
+            {
+                "id": "VISGB",
+                "short_value": "VISGB",
+                "long_value": "Gabriola Island"
+            },
+            {
+                "id": "VISGL",
+                "short_value": "VISGL",
+                "long_value": "Galiano Island"
+            },
+            {
+                "id": "VISMA",
+                "short_value": "VISMA",
+                "long_value": "Mayne Island"
+            },
+            {
+                "id": "VISOT",
+                "short_value": "VISOT",
+                "long_value": "Islands Other"
+            },
+            {
+                "id": "VISPE",
+                "short_value": "VISPE",
+                "long_value": "Pender Island"
+            },
+            {
+                "id": "VISSS",
+                "short_value": "VISSS",
+                "long_value": "Salt Spring Island"
+            },
+            {
+                "id": "VISST",
+                "short_value": "VISST",
+                "long_value": "Saturna Island"
+            },
+            {
+                "id": "VLDAI",
+                "short_value": "VLDAI",
+                "long_value": "Annacis Island"
+            },
+            {
+                "id": "VLDDM",
+                "short_value": "VLDDM",
+                "long_value": "Delta Manor"
+            },
+            {
+                "id": "VLDEA",
+                "short_value": "VLDEA",
+                "long_value": "East Delta"
+            },
+            {
+                "id": "VLDHA",
+                "short_value": "VLDHA",
+                "long_value": "Hawthorne"
+            },
+            {
+                "id": "VLDHO",
+                "short_value": "VLDHO",
+                "long_value": "Holly"
+            },
+            {
+                "id": "VLDLA",
+                "short_value": "VLDLA",
+                "long_value": "Ladner Rural"
+            },
+            {
+                "id": "VLDLE",
+                "short_value": "VLDLE",
+                "long_value": "Ladner Elementary"
+            },
+            {
+                "id": "VLDNG",
+                "short_value": "VLDNG",
+                "long_value": "Neilsen Grove"
+            },
+            {
+                "id": "VLDPG",
+                "short_value": "VLDPG",
+                "long_value": "Port Guichon"
+            },
+            {
+                "id": "VLDTB",
+                "short_value": "VLDTB",
+                "long_value": "Tilbury"
+            },
+            {
+                "id": "VLDWI",
+                "short_value": "VLDWI",
+                "long_value": "Westham Island"
+            },
+            {
+                "id": "VMRAL",
+                "short_value": "VMRAL",
+                "long_value": "Albion"
+            },
+            {
+                "id": "VMRCO",
+                "short_value": "VMRCO",
+                "long_value": "Cottonwood MR"
+            },
+            {
+                "id": "VMREC",
+                "short_value": "VMREC",
+                "long_value": "East Central"
+            },
+            {
+                "id": "VMRNE",
+                "short_value": "VMRNE",
+                "long_value": "Northeast"
+            },
+            {
+                "id": "VMRNO",
+                "short_value": "VMRNO",
+                "long_value": "North Maple Ridge"
+            },
+            {
+                "id": "VMRNW",
+                "short_value": "VMRNW",
+                "long_value": "Northwest Maple Ridge"
+            },
+            {
+                "id": "VMRSV",
+                "short_value": "VMRSV",
+                "long_value": "Silver Valley"
+            },
+            {
+                "id": "VMRSW",
+                "short_value": "VMRSW",
+                "long_value": "Southwest Maple Ridge"
+            },
+            {
+                "id": "VMRTH",
+                "short_value": "VMRTH",
+                "long_value": "Thornhill MR"
+            },
+            {
+                "id": "VMRWB",
+                "short_value": "VMRWB",
+                "long_value": "Websters Corners"
+            },
+            {
+                "id": "VMRWC",
+                "short_value": "VMRWC",
+                "long_value": "West Central"
+            },
+            {
+                "id": "VMRWH",
+                "short_value": "VMRWH",
+                "long_value": "Whonnock"
+            },
+            {
+                "id": "VNVBD",
+                "short_value": "VNVBD",
+                "long_value": "Boulevard"
+            },
+            {
+                "id": "VNVBL",
+                "short_value": "VNVBL",
+                "long_value": "Blueridge NV"
+            },
+            {
+                "id": "VNVBR",
+                "short_value": "VNVBR",
+                "long_value": "Braemar"
+            },
+            {
+                "id": "VNVCA",
+                "short_value": "VNVCA",
+                "long_value": "Capilano NV"
+            },
+            {
+                "id": "VNVCL",
+                "short_value": "VNVCL",
+                "long_value": "Central Lonsdale"
+            },
+            {
+                "id": "VNVCV",
+                "short_value": "VNVCV",
+                "long_value": "Calverhall"
+            },
+            {
+                "id": "VNVCY",
+                "short_value": "VNVCY",
+                "long_value": "Canyon Heights NV"
+            },
+            {
+                "id": "VNVDC",
+                "short_value": "VNVDC",
+                "long_value": "Deep Cove"
+            },
+            {
+                "id": "VNVDE",
+                "short_value": "VNVDE",
+                "long_value": "Delbrook"
+            },
+            {
+                "id": "VNVDO",
+                "short_value": "VNVDO",
+                "long_value": "Dollarton"
+            },
+            {
+                "id": "VNVED",
+                "short_value": "VNVED",
+                "long_value": "Edgemont"
+            },
+            {
+                "id": "VNVFH",
+                "short_value": "VNVFH",
+                "long_value": "Forest Hills NV"
+            },
+            {
+                "id": "VNVGW",
+                "short_value": "VNVGW",
+                "long_value": "Grouse Woods"
+            },
+            {
+                "id": "VNVHS",
+                "short_value": "VNVHS",
+                "long_value": "Harbourside"
+            },
+            {
+                "id": "VNVIA",
+                "short_value": "VNVIA",
+                "long_value": "Indian Arm"
+            },
+            {
+                "id": "VNVIR",
+                "short_value": "VNVIR",
+                "long_value": "Indian River"
+            },
+            {
+                "id": "VNVLL",
+                "short_value": "VNVLL",
+                "long_value": "Lower Lonsdale"
+            },
+            {
+                "id": "VNVLV",
+                "short_value": "VNVLV",
+                "long_value": "Lynn Valley"
+            },
+            {
+                "id": "VNVLY",
+                "short_value": "VNVLY",
+                "long_value": "Lynnmour"
+            },
+            {
+                "id": "VNVMC",
+                "short_value": "VNVMC",
+                "long_value": "Mosquito Creek"
+            },
+            {
+                "id": "VNVNG",
+                "short_value": "VNVNG",
+                "long_value": "Norgate"
+            },
+            {
+                "id": "VNVNL",
+                "short_value": "VNVNL",
+                "long_value": "Northlands"
+            },
+            {
+                "id": "VNVPH",
+                "short_value": "VNVPH",
+                "long_value": "Pemberton Heights"
+            },
+            {
+                "id": "VNVPN",
+                "short_value": "VNVPN",
+                "long_value": "Pemberton NV"
+            },
+            {
+                "id": "VNVPP",
+                "short_value": "VNVPP",
+                "long_value": "Princess Park"
+            },
+            {
+                "id": "VNVQU",
+                "short_value": "VNVQU",
+                "long_value": "Queensbury"
+            },
+            {
+                "id": "VNVRP",
+                "short_value": "VNVRP",
+                "long_value": "Roche Point"
+            },
+            {
+                "id": "VNVSY",
+                "short_value": "VNVSY",
+                "long_value": "Seymour NV"
+            },
+            {
+                "id": "VNVTE",
+                "short_value": "VNVTE",
+                "long_value": "Tempe"
+            },
+            {
+                "id": "VNVUD",
+                "short_value": "VNVUD",
+                "long_value": "Upper Delbrook"
+            },
+            {
+                "id": "VNVUL",
+                "short_value": "VNVUL",
+                "long_value": "Upper Lonsdale"
+            },
+            {
+                "id": "VNVWL",
+                "short_value": "VNVWL",
+                "long_value": "Westlynn"
+            },
+            {
+                "id": "VNVWP",
+                "short_value": "VNVWP",
+                "long_value": "Windsor Park NV"
+            },
+            {
+                "id": "VNVWS",
+                "short_value": "VNVWS",
+                "long_value": "Woodlands-Sunshine-Cascade"
+            },
+            {
+                "id": "VNVWT",
+                "short_value": "VNVWT",
+                "long_value": "Westlynn Terrace"
+            },
+            {
+                "id": "VNWBR",
+                "short_value": "VNWBR",
+                "long_value": "Brunette"
+            },
+            {
+                "id": "VNWCH",
+                "short_value": "VNWCH",
+                "long_value": "Connaught Heights"
+            },
+            {
+                "id": "VNWDT",
+                "short_value": "VNWDT",
+                "long_value": "Downtown NW"
+            },
+            {
+                "id": "VNWFV",
+                "short_value": "VNWFV",
+                "long_value": "Fraserview NW"
+            },
+            {
+                "id": "VNWGN",
+                "short_value": "VNWGN",
+                "long_value": "GlenBrooke North"
+            },
+            {
+                "id": "VNWMP",
+                "short_value": "VNWMP",
+                "long_value": "Moody Park"
+            },
+            {
+                "id": "VNWNA",
+                "short_value": "VNWNA",
+                "long_value": "North Arm"
+            },
+            {
+                "id": "VNWQB",
+                "short_value": "VNWQB",
+                "long_value": "Queensborough"
+            },
+            {
+                "id": "VNWQP",
+                "short_value": "VNWQP",
+                "long_value": "Queens Park"
+            },
+            {
+                "id": "VNWQY",
+                "short_value": "VNWQY",
+                "long_value": "Quay"
+            },
+            {
+                "id": "VNWSA",
+                "short_value": "VNWSA",
+                "long_value": "Sapperton"
+            },
+            {
+                "id": "VNWTH",
+                "short_value": "VNWTH",
+                "long_value": "The Heights NW"
+            },
+            {
+                "id": "VNWUP",
+                "short_value": "VNWUP",
+                "long_value": "Uptown NW"
+            },
+            {
+                "id": "VNWWE",
+                "short_value": "VNWWE",
+                "long_value": "West End NW"
+            },
+            {
+                "id": "VOTOT",
+                "short_value": "VOTOT",
+                "long_value": "Out of Town"
+            },
+            {
+                "id": "VPEBI",
+                "short_value": "VPEBI",
+                "long_value": "Birken"
+            },
+            {
+                "id": "VPEDE",
+                "short_value": "VPEDE",
+                "long_value": "Devine"
+            },
+            {
+                "id": "VPEDY",
+                "short_value": "VPEDY",
+                "long_value": "D'Arcy"
+            },
+            {
+                "id": "VPEIL",
+                "short_value": "VPEIL",
+                "long_value": "Ivey Lake Estates"
+            },
+            {
+                "id": "VPELL",
+                "short_value": "VPELL",
+                "long_value": "Lillooet Lake"
+            },
+            {
+                "id": "VPEMC",
+                "short_value": "VPEMC",
+                "long_value": "Mount Currie"
+            },
+            {
+                "id": "VPEOR",
+                "short_value": "VPEOR",
+                "long_value": "Owl Ridge"
+            },
+            {
+                "id": "VPEPC",
+                "short_value": "VPEPC",
+                "long_value": "Poole Creek"
+            },
+            {
+                "id": "VPEPE",
+                "short_value": "VPEPE",
+                "long_value": "Pemberton"
+            },
+            {
+                "id": "VPEPM",
+                "short_value": "VPEPM",
+                "long_value": "Pemberton Meadows"
+            },
+            {
+                "id": "VPEWE",
+                "short_value": "VPEWE",
+                "long_value": "Walkerville Estates"
+            },
+            {
+                "id": "VPICM",
+                "short_value": "VPICM",
+                "long_value": "Central Meadows"
+            },
+            {
+                "id": "VPIMM",
+                "short_value": "VPIMM",
+                "long_value": "Mid Meadows"
+            },
+            {
+                "id": "VPINM",
+                "short_value": "VPINM",
+                "long_value": "North Meadows PI"
+            },
+            {
+                "id": "VPISM",
+                "short_value": "VPISM",
+                "long_value": "South Meadows"
+            },
+            {
+                "id": "VPIWM",
+                "short_value": "VPIWM",
+                "long_value": "West Meadows"
+            },
+            {
+                "id": "VPMAN",
+                "short_value": "VPMAN",
+                "long_value": "Anmore"
+            },
+            {
+                "id": "VPMBL",
+                "short_value": "VPMBL",
+                "long_value": "Belcarra"
+            },
+            {
+                "id": "VPMBS",
+                "short_value": "VPMBS",
+                "long_value": "Barber Street"
+            },
+            {
+                "id": "VPMCP",
+                "short_value": "VPMCP",
+                "long_value": "College Park PM"
+            },
+            {
+                "id": "VPMGL",
+                "short_value": "VPMGL",
+                "long_value": "Glenayre"
+            },
+            {
+                "id": "VPMHM",
+                "short_value": "VPMHM",
+                "long_value": "Heritage Mountain"
+            },
+            {
+                "id": "VPMHW",
+                "short_value": "VPMHW",
+                "long_value": "Heritage Woods PM"
+            },
+            {
+                "id": "VPMIO",
+                "short_value": "VPMIO",
+                "long_value": "Ioco"
+            },
+            {
+                "id": "VPMMM",
+                "short_value": "VPMMM",
+                "long_value": "Mountain Meadows"
+            },
+            {
+                "id": "VPMNS",
+                "short_value": "VPMNS",
+                "long_value": "North Shore Pt Moody"
+            },
+            {
+                "id": "VPMPM",
+                "short_value": "VPMPM",
+                "long_value": "Port Moody Centre"
+            },
+            {
+                "id": "VPQBL",
+                "short_value": "VPQBL",
+                "long_value": "Birchland Manor"
+            },
+            {
+                "id": "VPQCE",
+                "short_value": "VPQCE",
+                "long_value": "Central Pt Coquitlam"
+            },
+            {
+                "id": "VPQCI",
+                "short_value": "VPQCI",
+                "long_value": "Citadel PQ"
+            },
+            {
+                "id": "VPQGL",
+                "short_value": "VPQGL",
+                "long_value": "Glenwood PQ"
+            },
+            {
+                "id": "VPQLM",
+                "short_value": "VPQLM",
+                "long_value": "Lower Mary Hill"
+            },
+            {
+                "id": "VPQLP",
+                "short_value": "VPQLP",
+                "long_value": "Lincoln Park PQ"
+            },
+            {
+                "id": "VPQMH",
+                "short_value": "VPQMH",
+                "long_value": "Mary Hill"
+            },
+            {
+                "id": "VPQOH",
+                "short_value": "VPQOH",
+                "long_value": "Oxford Heights"
+            },
+            {
+                "id": "VPQRD",
+                "short_value": "VPQRD",
+                "long_value": "Riverwood"
+            },
+            {
+                "id": "VPQWA",
+                "short_value": "VPQWA",
+                "long_value": "Woodland Acres PQ"
+            },
+            {
+                "id": "VRI10",
+                "short_value": "VRI10",
+                "long_value": "Sea Island"
+            },
+            {
+                "id": "VRI11",
+                "short_value": "VRI11",
+                "long_value": "Bridgeport RI"
+            },
+            {
+                "id": "VRI12",
+                "short_value": "VRI12",
+                "long_value": "West Cambie"
+            },
+            {
+                "id": "VRI13",
+                "short_value": "VRI13",
+                "long_value": "East Cambie"
+            },
+            {
+                "id": "VRI20",
+                "short_value": "VRI20",
+                "long_value": "Terra Nova"
+            },
+            {
+                "id": "VRI21",
+                "short_value": "VRI21",
+                "long_value": "Riverdale RI"
+            },
+            {
+                "id": "VRI22",
+                "short_value": "VRI22",
+                "long_value": "Quilchena RI"
+            },
+            {
+                "id": "VRI23",
+                "short_value": "VRI23",
+                "long_value": "Granville"
+            },
+            {
+                "id": "VRI30",
+                "short_value": "VRI30",
+                "long_value": "Seafair"
+            },
+            {
+                "id": "VRI31",
+                "short_value": "VRI31",
+                "long_value": "Boyd Park"
+            },
+            {
+                "id": "VRI32",
+                "short_value": "VRI32",
+                "long_value": "Lackner"
+            },
+            {
+                "id": "VRI40",
+                "short_value": "VRI40",
+                "long_value": "Steveston Village"
+            },
+            {
+                "id": "VRI41",
+                "short_value": "VRI41",
+                "long_value": "Steveston North"
+            },
+            {
+                "id": "VRI42",
+                "short_value": "VRI42",
+                "long_value": "Steveston South"
+            },
+            {
+                "id": "VRI43",
+                "short_value": "VRI43",
+                "long_value": "Westwind"
+            },
+            {
+                "id": "VRI50",
+                "short_value": "VRI50",
+                "long_value": "Woodwards"
+            },
+            {
+                "id": "VRI51",
+                "short_value": "VRI51",
+                "long_value": "Broadmoor"
+            },
+            {
+                "id": "VRI52",
+                "short_value": "VRI52",
+                "long_value": "Garden City"
+            },
+            {
+                "id": "VRI53",
+                "short_value": "VRI53",
+                "long_value": "Saunders"
+            },
+            {
+                "id": "VRI54",
+                "short_value": "VRI54",
+                "long_value": "South Arm"
+            },
+            {
+                "id": "VRI60",
+                "short_value": "VRI60",
+                "long_value": "Brighouse"
+            },
+            {
+                "id": "VRI61",
+                "short_value": "VRI61",
+                "long_value": "Brighouse South"
+            },
+            {
+                "id": "VRI62",
+                "short_value": "VRI62",
+                "long_value": "McLennan North"
+            },
+            {
+                "id": "VRI70",
+                "short_value": "VRI70",
+                "long_value": "Gilmore"
+            },
+            {
+                "id": "VRI71",
+                "short_value": "VRI71",
+                "long_value": "McLennan"
+            },
+            {
+                "id": "VRI72",
+                "short_value": "VRI72",
+                "long_value": "East Richmond"
+            },
+            {
+                "id": "VRI80",
+                "short_value": "VRI80",
+                "long_value": "McNair"
+            },
+            {
+                "id": "VRI81",
+                "short_value": "VRI81",
+                "long_value": "Ironwood"
+            },
+            {
+                "id": "VRI90",
+                "short_value": "VRI90",
+                "long_value": "Hamilton RI"
+            },
+            {
+                "id": "VSCGB",
+                "short_value": "VSCGB",
+                "long_value": "Gibsons & Area"
+            },
+            {
+                "id": "VSCGM",
+                "short_value": "VSCGM",
+                "long_value": "Gambier Island"
+            },
+            {
+                "id": "VSCHB",
+                "short_value": "VSCHB",
+                "long_value": "Halfmn Bay Secret Cv Redroofs"
+            },
+            {
+                "id": "VSCKE",
+                "short_value": "VSCKE",
+                "long_value": "Keats Island"
+            },
+            {
+                "id": "VSCNE",
+                "short_value": "VSCNE",
+                "long_value": "Nelson Island"
+            },
+            {
+                "id": "VSCPE",
+                "short_value": "VSCPE",
+                "long_value": "Pender Harbour Egmont"
+            },
+            {
+                "id": "VSCRC",
+                "short_value": "VSCRC",
+                "long_value": "Roberts Creek"
+            },
+            {
+                "id": "VSCSD",
+                "short_value": "VSCSD",
+                "long_value": "Sechelt District"
+            },
+            {
+                "id": "VSQBB",
+                "short_value": "VSQBB",
+                "long_value": "Britannia Beach"
+            },
+            {
+                "id": "VSQBC",
+                "short_value": "VSQBC",
+                "long_value": "Brennan Center"
+            },
+            {
+                "id": "VSQBP",
+                "short_value": "VSQBP",
+                "long_value": "Business Park"
+            },
+            {
+                "id": "VSQBR",
+                "short_value": "VSQBR",
+                "long_value": "Brackendale"
+            },
+            {
+                "id": "VSQDT",
+                "short_value": "VSQDT",
+                "long_value": "Downtown SQ"
+            },
+            {
+                "id": "VSQDV",
+                "short_value": "VSQDV",
+                "long_value": "Dentville"
+            },
+            {
+                "id": "VSQGE",
+                "short_value": "VSQGE",
+                "long_value": "Garibaldi Estates"
+            },
+            {
+                "id": "VSQGH",
+                "short_value": "VSQGH",
+                "long_value": "Garibaldi Highlands"
+            },
+            {
+                "id": "VSQHH",
+                "short_value": "VSQHH",
+                "long_value": "Hospital Hill"
+            },
+            {
+                "id": "VSQNY",
+                "short_value": "VSQNY",
+                "long_value": "Northyards"
+            },
+            {
+                "id": "VSQPL",
+                "short_value": "VSQPL",
+                "long_value": "Plateau"
+            },
+            {
+                "id": "VSQPV",
+                "short_value": "VSQPV",
+                "long_value": "Paradise Valley"
+            },
+            {
+                "id": "VSQRC",
+                "short_value": "VSQRC",
+                "long_value": "Ring Creek"
+            },
+            {
+                "id": "VSQSR",
+                "short_value": "VSQSR",
+                "long_value": "Squamish Rural"
+            },
+            {
+                "id": "VSQTA",
+                "short_value": "VSQTA",
+                "long_value": "Tantalus"
+            },
+            {
+                "id": "VSQUH",
+                "short_value": "VSQUH",
+                "long_value": "University Highlands"
+            },
+            {
+                "id": "VSQUS",
+                "short_value": "VSQUS",
+                "long_value": "Upper Squamish"
+            },
+            {
+                "id": "VSQVC",
+                "short_value": "VSQVC",
+                "long_value": "Valleycliffe"
+            },
+            {
+                "id": "VTWBB",
+                "short_value": "VTWBB",
+                "long_value": "Boundary Beach"
+            },
+            {
+                "id": "VTWBG",
+                "short_value": "VTWBG",
+                "long_value": "Beach Grove"
+            },
+            {
+                "id": "VTWCD",
+                "short_value": "VTWCD",
+                "long_value": "Cliff Drive"
+            },
+            {
+                "id": "VTWCT",
+                "short_value": "VTWCT",
+                "long_value": "Tsawwassen Central"
+            },
+            {
+                "id": "VTWEB",
+                "short_value": "VTWEB",
+                "long_value": "English Bluff"
+            },
+            {
+                "id": "VTWPH",
+                "short_value": "VTWPH",
+                "long_value": "Pebble Hill"
+            },
+            {
+                "id": "VTWTE",
+                "short_value": "VTWTE",
+                "long_value": "Tsawwassen East"
+            },
+            {
+                "id": "VVECH",
+                "short_value": "VVECH",
+                "long_value": "Champlain Heights"
+            },
+            {
+                "id": "VVECO",
+                "short_value": "VVECO",
+                "long_value": "Collingwood VE"
+            },
+            {
+                "id": "VVEDT",
+                "short_value": "VVEDT",
+                "long_value": "Downtown VE"
+            },
+            {
+                "id": "VVEFR",
+                "short_value": "VVEFR",
+                "long_value": "Fraser VE"
+            },
+            {
+                "id": "VVEFV",
+                "short_value": "VVEFV",
+                "long_value": "Fraserview VE"
+            },
+            {
+                "id": "VVEGW",
+                "short_value": "VVEGW",
+                "long_value": "Grandview Woodland"
+            },
+            {
+                "id": "VVEHA",
+                "short_value": "VVEHA",
+                "long_value": "Hastings"
+            },
+            {
+                "id": "VVEKL",
+                "short_value": "VVEKL",
+                "long_value": "Killarney VE"
+            },
+            {
+                "id": "VVEKN",
+                "short_value": "VVEKN",
+                "long_value": "Knight"
+            },
+            {
+                "id": "VVEMN",
+                "short_value": "VVEMN",
+                "long_value": "Main"
+            },
+            {
+                "id": "VVEMP",
+                "short_value": "VVEMP",
+                "long_value": "Mount Pleasant VE"
+            },
+            {
+                "id": "VVERE",
+                "short_value": "VVERE",
+                "long_value": "Renfrew VE"
+            },
+            {
+                "id": "VVERH",
+                "short_value": "VVERH",
+                "long_value": "Renfrew Heights"
+            },
+            {
+                "id": "VVESM",
+                "short_value": "VVESM",
+                "long_value": "South Marine"
+            },
+            {
+                "id": "VVEST",
+                "short_value": "VVEST",
+                "long_value": "Strathcona"
+            },
+            {
+                "id": "VVESU",
+                "short_value": "VVESU",
+                "long_value": "Hastings Sunrise"
+            },
+            {
+                "id": "VVESV",
+                "short_value": "VVESV",
+                "long_value": "South Vancouver"
+            },
+            {
+                "id": "VVEVI",
+                "short_value": "VVEVI",
+                "long_value": "Victoria VE"
+            },
+            {
+                "id": "VVWAR",
+                "short_value": "VVWAR",
+                "long_value": "Arbutus"
+            },
+            {
+                "id": "VVWCA",
+                "short_value": "VVWCA",
+                "long_value": "Cambie"
+            },
+            {
+                "id": "VVWCB",
+                "short_value": "VVWCB",
+                "long_value": "Coal Harbour"
+            },
+            {
+                "id": "VVWDT",
+                "short_value": "VVWDT",
+                "long_value": "Downtown VW"
+            },
+            {
+                "id": "VVWDU",
+                "short_value": "VVWDU",
+                "long_value": "Dunbar"
+            },
+            {
+                "id": "VVWFA",
+                "short_value": "VVWFA",
+                "long_value": "Fairview VW"
+            },
+            {
+                "id": "VVWFC",
+                "short_value": "VVWFC",
+                "long_value": "False Creek"
+            },
+            {
+                "id": "VVWKE",
+                "short_value": "VVWKE",
+                "long_value": "Kerrisdale"
+            },
+            {
+                "id": "VVWKT",
+                "short_value": "VVWKT",
+                "long_value": "Kitsilano"
+            },
+            {
+                "id": "VVWMH",
+                "short_value": "VVWMH",
+                "long_value": "MacKenzie Heights"
+            },
+            {
+                "id": "VVWMP",
+                "short_value": "VVWMP",
+                "long_value": "Mount Pleasant VW"
+            },
+            {
+                "id": "VVWMR",
+                "short_value": "VVWMR",
+                "long_value": "Marpole"
+            },
+            {
+                "id": "VVWOA",
+                "short_value": "VVWOA",
+                "long_value": "Oakridge VW"
+            },
+            {
+                "id": "VVWPG",
+                "short_value": "VVWPG",
+                "long_value": "Point Grey"
+            },
+            {
+                "id": "VVWQU",
+                "short_value": "VVWQU",
+                "long_value": "Quilchena"
+            },
+            {
+                "id": "VVWSC",
+                "short_value": "VVWSC",
+                "long_value": "South Cambie"
+            },
+            {
+                "id": "VVWSG",
+                "short_value": "VVWSG",
+                "long_value": "South Granville"
+            },
+            {
+                "id": "VVWSH",
+                "short_value": "VVWSH",
+                "long_value": "Shaughnessy"
+            },
+            {
+                "id": "VVWSL",
+                "short_value": "VVWSL",
+                "long_value": "Southlands"
+            },
+            {
+                "id": "VVWSW",
+                "short_value": "VVWSW",
+                "long_value": "S.W. Marine"
+            },
+            {
+                "id": "VVWUL",
+                "short_value": "VVWUL",
+                "long_value": "University VW"
+            },
+            {
+                "id": "VVWWE",
+                "short_value": "VVWWE",
+                "long_value": "West End VW"
+            },
+            {
+                "id": "VVWYA",
+                "short_value": "VVWYA",
+                "long_value": "Yaletown"
+            },
+            {
+                "id": "VWHAM",
+                "short_value": "VWHAM",
+                "long_value": "Alpine Meadows"
+            },
+            {
+                "id": "VWHAV",
+                "short_value": "VWHAV",
+                "long_value": "Alta Vista"
+            },
+            {
+                "id": "VWHBA",
+                "short_value": "VWHBA",
+                "long_value": "Bayshores"
+            },
+            {
+                "id": "VWHBE",
+                "short_value": "VWHBE",
+                "long_value": "Benchlands"
+            },
+            {
+                "id": "VWHBH",
+                "short_value": "VWHBH",
+                "long_value": "Blueberry Hill"
+            },
+            {
+                "id": "VWHBR",
+                "short_value": "VWHBR",
+                "long_value": "Brio"
+            },
+            {
+                "id": "VWHBT",
+                "short_value": "VWHBT",
+                "long_value": "Black Tusk - Pinecrest"
+            },
+            {
+                "id": "VWHCA",
+                "short_value": "VWHCA",
+                "long_value": "Callaghan"
+            },
+            {
+                "id": "VWHCC",
+                "short_value": "VWHCC",
+                "long_value": "Cheakamus Crossing"
+            },
+            {
+                "id": "VWHCE",
+                "short_value": "VWHCE",
+                "long_value": "Whistler Cay Estates"
+            },
+            {
+                "id": "VWHCH",
+                "short_value": "VWHCH",
+                "long_value": "Whistler Cay Heights"
+            },
+            {
+                "id": "VWHCR",
+                "short_value": "VWHCR",
+                "long_value": "Whistler Creek"
+            },
+            {
+                "id": "VWHEE",
+                "short_value": "VWHEE",
+                "long_value": "Emerald Estates"
+            },
+            {
+                "id": "VWHFJ",
+                "short_value": "VWHFJ",
+                "long_value": "Function Junction"
+            },
+            {
+                "id": "VWHGL",
+                "short_value": "VWHGL",
+                "long_value": "Green Lake Estates"
+            },
+            {
+                "id": "VWHNE",
+                "short_value": "VWHNE",
+                "long_value": "Nesters"
+            },
+            {
+                "id": "VWHNO",
+                "short_value": "VWHNO",
+                "long_value": "Nordic"
+            },
+            {
+                "id": "VWHRW",
+                "short_value": "VWHRW",
+                "long_value": "Rainbow"
+            },
+            {
+                "id": "VWHSC",
+                "short_value": "VWHSC",
+                "long_value": "Spring Creek"
+            },
+            {
+                "id": "VWHSG",
+                "short_value": "VWHSG",
+                "long_value": "Spruce Grove"
+            },
+            {
+                "id": "VWHVI",
+                "short_value": "VWHVI",
+                "long_value": "Whistler Village"
+            },
+            {
+                "id": "VWHWE",
+                "short_value": "VWHWE",
+                "long_value": "Westside"
+            },
+            {
+                "id": "VWHWG",
+                "short_value": "VWHWG",
+                "long_value": "White Gold"
+            },
+            {
+                "id": "VWHWW",
+                "short_value": "VWHWW",
+                "long_value": "WedgeWoods"
+            },
+            {
+                "id": "VWVAL",
+                "short_value": "VWVAL",
+                "long_value": "Altamont"
+            },
+            {
+                "id": "VWVAM",
+                "short_value": "VWVAM",
+                "long_value": "Ambleside"
+            },
+            {
+                "id": "VWVBP",
+                "short_value": "VWVBP",
+                "long_value": "British Properties"
+            },
+            {
+                "id": "VWVBR",
+                "short_value": "VWVBR",
+                "long_value": "Bayridge"
+            },
+            {
+                "id": "VWVCA",
+                "short_value": "VWVCA",
+                "long_value": "Caulfeild"
+            },
+            {
+                "id": "VWVCB",
+                "short_value": "VWVCB",
+                "long_value": "Canterbury WV"
+            },
+            {
+                "id": "VWVCD",
+                "short_value": "VWVCD",
+                "long_value": "Cedardale"
+            },
+            {
+                "id": "VWVCE",
+                "short_value": "VWVCE",
+                "long_value": "Cypress Park Estates"
+            },
+            {
+                "id": "VWVCP",
+                "short_value": "VWVCP",
+                "long_value": "Chelsea Park"
+            },
+            {
+                "id": "VWVCW",
+                "short_value": "VWVCW",
+                "long_value": "Chartwell"
+            },
+            {
+                "id": "VWVCY",
+                "short_value": "VWVCY",
+                "long_value": "Cypress"
+            },
+            {
+                "id": "VWVDR",
+                "short_value": "VWVDR",
+                "long_value": "Deer Ridge WV"
+            },
+            {
+                "id": "VWVDU",
+                "short_value": "VWVDU",
+                "long_value": "Dundarave"
+            },
+            {
+                "id": "VWVEH",
+                "short_value": "VWVEH",
+                "long_value": "Eagle Harbour"
+            },
+            {
+                "id": "VWVER",
+                "short_value": "VWVER",
+                "long_value": "Eagleridge"
+            },
+            {
+                "id": "VWVFC",
+                "short_value": "VWVFC",
+                "long_value": "Furry Creek"
+            },
+            {
+                "id": "VWVGL",
+                "short_value": "VWVGL",
+                "long_value": "Gleneagles"
+            },
+            {
+                "id": "VWVGM",
+                "short_value": "VWVGM",
+                "long_value": "Glenmore"
+            },
+            {
+                "id": "VWVHB",
+                "short_value": "VWVHB",
+                "long_value": "Horseshoe Bay WV"
+            },
+            {
+                "id": "VWVHS",
+                "short_value": "VWVHS",
+                "long_value": "Howe Sound"
+            },
+            {
+                "id": "VWVLB",
+                "short_value": "VWVLB",
+                "long_value": "Lions Bay"
+            },
+            {
+                "id": "VWVOC",
+                "short_value": "VWVOC",
+                "long_value": "Olde Caulfeild"
+            },
+            {
+                "id": "VWVPA",
+                "short_value": "VWVPA",
+                "long_value": "Passage Island"
+            },
+            {
+                "id": "VWVPO",
+                "short_value": "VWVPO",
+                "long_value": "Porteau Cove"
+            },
+            {
+                "id": "VWVPR",
+                "short_value": "VWVPR",
+                "long_value": "Park Royal"
+            },
+            {
+                "id": "VWVPV",
+                "short_value": "VWVPV",
+                "long_value": "Panorama Village"
+            },
+            {
+                "id": "VWVQU",
+                "short_value": "VWVQU",
+                "long_value": "Queens"
+            },
+            {
+                "id": "VWVRR",
+                "short_value": "VWVRR",
+                "long_value": "Rockridge"
+            },
+            {
+                "id": "VWVSC",
+                "short_value": "VWVSC",
+                "long_value": "Sandy Cove"
+            },
+            {
+                "id": "VWVSH",
+                "short_value": "VWVSH",
+                "long_value": "Sentinel Hill"
+            },
+            {
+                "id": "VWVUC",
+                "short_value": "VWVUC",
+                "long_value": "Upper Caulfeild"
+            },
+            {
+                "id": "VWVWB",
+                "short_value": "VWVWB",
+                "long_value": "West Bay"
+            },
+            {
+                "id": "VWVWC",
+                "short_value": "VWVWC",
+                "long_value": "Whytecliff"
+            },
+            {
+                "id": "VWVWE",
+                "short_value": "VWVWE",
+                "long_value": "Whitby Estates"
+            },
+            {
+                "id": "VWVWH",
+                "short_value": "VWVWH",
+                "long_value": "Westhill"
+            },
+            {
+                "id": "VWVWM",
+                "short_value": "VWVWM",
+                "long_value": "Westmount WV"
+            }
+        ],
+        "info": {
+            "total": 618
+        }
+    }
+}
